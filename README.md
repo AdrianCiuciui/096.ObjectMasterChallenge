@@ -1,5 +1,5 @@
 # 096.ObjectMasterChallenge
-Burger ordering app
+Burger ordering app. Challange from the Java Masterclass from Udemy
 
 Can order 3 types of burgers - Custom, Healthy, Deluxe.
 Can choose the meat type, the bread type and ingredients.
